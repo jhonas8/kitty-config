@@ -57,9 +57,20 @@ __Notice I'm considering you named the link as theme.conf__
 
 ## Key mappings ##
 
+Notice I'm using **native_code** for mapping the keys.
+
 ### Next tab ###
 Using CTRL + K for switching to next tab:  
-``map ctrl+0x6a previous_tab``
+
+    map ctrl+0x6a previous_tab
+
+Using CTRL + J for switching to previous tab:
+
+    map ctrl+0x6b next_tab
+
+Using F1 to open a new tab on the same directory as the current tab:
+
+    map 0xffbe new_tab_with_cwd
 
 [theme-package]: https://github.com/dexpota/kitty-themes
 [kitty-link]: https://sw.kovidgoyal.net/kitty/

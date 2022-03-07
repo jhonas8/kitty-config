@@ -19,6 +19,7 @@ Access Kitty's documentation!
 The theme being used is part of a theme package available on [Github][theme-package]. 
 
 The current theme is the WarmNeon. The color pallette is:  
+   
     background            #3f3f3f
     foreground            #afdab6
     cursor                #2fff24

@@ -7,7 +7,7 @@ This is my kitty terminal emulator configuration. I've started using it recently
     width="22px"
     align="left"
 />][kitty-link]
-If you are not used to Kitty, you can access its documentation by clicking on the icon above.
+Access Kitty's documentation!
 
 <br/> <br/>
 

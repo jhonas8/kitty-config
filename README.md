@@ -125,6 +125,16 @@ As for the lauching flags, I set the background opacity to 0.95 (95%). That's th
     src="./step3.png"
 />
 
+## Synth Shell ##
+The fancy shell initialization is called Synth shell and you can easily install by following the steps on its documentation. 
+[<img
+    alt="synth-shell"
+    src="https://raw.githubusercontent.com/andresgongora/synth-shell/master/doc/synth-shell.jpg"
+    width="22px"
+    align="right"
+/>][synth-shell]
+
 [theme-package]: https://github.com/dexpota/kitty-themes
 [kitty-link]: https://sw.kovidgoyal.net/kitty/
 [fira-code]: https://github.com/tonsky/FiraCode
+[synth-shell]: https://github.com/andresgongora/synth-shell

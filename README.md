@@ -1,6 +1,13 @@
 # My Kitty terminal emulator settings #
 This is my kitty terminal emulator configuration. I've started using it recently, so there's not a lot yet. 
 
+<img
+    alt="Print kitty-terminal"
+    src="./kitty-print.png"
+/>
+
+
+
 [<img
     alt="Kitty icon"
     src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg"

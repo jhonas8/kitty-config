@@ -3,7 +3,7 @@
 
 <img
     alt="Print kitty-terminal"
-    src="./kittyPrint.png"
+    src="./.git/git-assets/kittyPrint.png"
 />  
 
 [<img
@@ -97,7 +97,7 @@ The `-liga` will disable normal ligatures. There's also `(+/-)calt` feature (in 
 And you have this result as for the terminal tabs:
 <img
   alt="tab separator"
-  src="./tabSeparator.png"
+  src="./.git/git-assets/tabSeparator.png"
 />
 
 ## Launching flags ##
@@ -110,19 +110,19 @@ As for the lauching flags, I set the background opacity to 0.95 (95%). That's th
 #### Step 1 ###
 <img
     alt="step 1"
-    src="./step1.png"
+    src="./.git/git-assets/step1.png"
 />
 
 ### Step 2 ### 
 <img
     alt="step 2"
-    src="./step2.png"
+    src="./.git/git-assets/step2.png"
 />
 
 ### Step 3 ###
 <img
     alt="step 3"
-    src="./step3.png"
+    src="./.git/git-assets/step3.png"
 />
 
 ## Synth Shell ##
@@ -132,7 +132,12 @@ The fancy shell initialization is called Synth shell and you can easily install 
     src="https://raw.githubusercontent.com/andresgongora/synth-shell/master/doc/synth-shell.jpg"
     width="40px"
     align="right"
-/>][synth-shell]
+/>][synth-shell]  
+  
+<img
+    alt="synth-shell print"
+    src="./.git/git-assets/synth-shell.png"
+/>
 
 [theme-package]: https://github.com/dexpota/kitty-themes
 [kitty-link]: https://sw.kovidgoyal.net/kitty/

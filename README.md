@@ -130,7 +130,7 @@ The fancy shell initialization is called Synth shell and you can easily install 
 [<img
     alt="synth-shell"
     src="https://raw.githubusercontent.com/andresgongora/synth-shell/master/doc/synth-shell.jpg"
-    width="22px"
+    width="40px"
     align="right"
 />][synth-shell]
 

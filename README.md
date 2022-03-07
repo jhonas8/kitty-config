@@ -42,7 +42,7 @@ The current theme is the *WarmNeon*. The color palette is:
     color15               #d8c8bb
     selection_foreground  #3f3f3f
 
-In this case, I've created a link from the source path containing the color palette. You can do it by running the following code:  
+In this case, I've created a link to a file containing the collor palette from the source path. You can do it by running the following code:  
 
 ``ln -s ./kitty-themes/themes/<ThemeName>.conf ~/.config/kitty/theme.conf``  
 
@@ -51,7 +51,7 @@ By running this, you create a link for the file <ThemeName>.conf and name this l
 Now you need to import it into your kitty.conf file, by running:
 ``include ./theme.conf``
 
-__ Notice I'm considering you named the link as theme.conf __
+__Notice I'm considering you named the link as theme.conf__
 
 [theme-package]: https://github.com/dexpota/kitty-themes
 [kitty-link]: https://sw.kovidgoyal.net/kitty/

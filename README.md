@@ -9,7 +9,6 @@ This is my kitty terminal emulator configuration. I've started using it recently
 />][kitty-link]
 Access Kitty's documentation!
 
-<br/> <br/>
 
 The theme used on 'theme.conf' is from a kitty themes packages available on the following link: https://github.com/dexpota/kitty-themes
 

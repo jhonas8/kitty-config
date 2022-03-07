@@ -18,7 +18,7 @@ Access Kitty's documentation!
 
 **The theme being used is part of a theme package available on [Github][theme-package].**
 
-The current theme is the *WarmNeon*. The color palette is:  
+The current theme is the **WarmNeon**. The color palette is:  
    
     background            #3f3f3f
     foreground            #afdab6
@@ -88,6 +88,41 @@ If you **DON'T** want the font-ligatures, you can add the follwing line:
 
 The `-liga` will disable normal ligatures. There's also `(+/-)calt` feature (in Fira Code) which allows breaks up monotony.
 
+## Tab Separator ##
+
+    tab_separator " ┇"
+    tab_bar_style powerline
+
+And you have this result as for the terminal tabs:
+<img
+  alt="tab separator"
+  src="./tabSeparator.png"
+/>
+
+## Launching flags ##
+As for the lauching flags, I set the background opacity to 0.95 (95%). That's the only flag I use and you can do it by running the following command in your terminal:
+
+    kitty -o background_opacity=0.95
+
+I also setted up the command above to run by pressing the CTRL+ALT+t. In my case, I used the native Gnome 3 keyboards-shortcuts to set it up. If you're using the same interface, you can do it by following the steps: 
+
+#### Step 1 ###
+<img
+    alt="step 1"
+    src="./step1.png"
+/>
+
+### Step 2 ### 
+<img
+    alt="step 2"
+    src="./step2.png"
+/>
+
+### Step 3 ###
+<img
+    alt="step 3"
+    src="./step3.png"
+/>
 
 [theme-package]: https://github.com/dexpota/kitty-themes
 [kitty-link]: https://sw.kovidgoyal.net/kitty/

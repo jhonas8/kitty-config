@@ -8,6 +8,8 @@ This is my kitty terminal emulator configuration. I've started using it recently
     align="left"
 />][kitty-link]   
 
+<br/> <br/>
+
 The theme used on 'theme.conf' is from a kitty themes packages available on the following link: https://github.com/dexpota/kitty-themes
 
 [kitty-link]: https://sw.kovidgoyal.net/kitty/

@@ -18,7 +18,7 @@ Access Kitty's documentation!
 
 **The theme being used is part of a theme package available on [Github][theme-package].**
 
-The current theme is the *WarmNeon*. The color pallette is:  
+The current theme is the *WarmNeon*. The color palette is:  
    
     background            #3f3f3f
     foreground            #afdab6
@@ -41,6 +41,17 @@ The current theme is the *WarmNeon*. The color pallette is:
     color7                #d0b8a3
     color15               #d8c8bb
     selection_foreground  #3f3f3f
+
+In this case, I've created a link from the source path containing the color palette. You can do it by running the following code:  
+
+``ln -s ./kitty-themes/themes/<ThemeName>.conf ~/.config/kitty/theme.conf``  
+
+By running this, you create a link for the file <ThemeName>.conf and name this link as 'theme.conf'.  
+
+Now you need to import it into your kitty.conf file, by running:
+``include ./theme.conf``
+
+__ Notice I'm considering you named the link as theme.conf __
 
 [theme-package]: https://github.com/dexpota/kitty-themes
 [kitty-link]: https://sw.kovidgoyal.net/kitty/

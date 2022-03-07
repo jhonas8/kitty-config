@@ -46,12 +46,13 @@ The current theme is the **WarmNeon**. The color palette is:
 
 In this case, I've created a link to a file containing the collor palette from the source path. You can do it by running the following code:  
 
-``ln -s ./kitty-themes/themes/<ThemeName>.conf ~/.config/kitty/theme.conf``  
+    ln -s ./kitty-themes/themes/<ThemeName>.conf ~/.config/kitty/theme.conf 
 
 By running this, you create a link for the file <ThemeName>.conf and name this link as 'theme.conf'.  
 
 Now you need to import it into your **kitty.conf** file, by running:
-``include ./theme.conf``
+
+    include ./theme.conf
 
 __Notice I'm considering you named the link as theme.conf__
 
@@ -104,7 +105,7 @@ As for the lauching flags, I set the background opacity to 0.95 (95%). That's th
 
     kitty -o background_opacity=0.95
 
-I also setted up the command above to run by pressing the CTRL+ALT+t. In my case, I used the native Gnome 3 keyboards-shortcuts to set it up. If you're using the same interface, you can do it by following the steps: 
+### I also setted up the command above to run by pressing the CTRL+ALT+t. In my case, I used the native Gnome 3 keyboards-shortcuts to set it up. If you're using the same interface, you can do it by following the steps: ##
 
 #### Step 1 ###
 <img

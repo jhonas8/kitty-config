@@ -1,0 +1,21 @@
+{
+  "name": "kitty",
+  "version": "1.0.0",
+  "description": "This is my kitty terminal emulator configuration. I've started using it recently, so there's not a lot yet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "git": "git add . && git commit -m $npm_config_message && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonas8/kitty-config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonas8/kitty-config/issues"
+  },
+  "homepage": "https://github.com/jhonas8/kitty-config#readme"
+}

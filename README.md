@@ -17,7 +17,7 @@ Access Kitty's documentation!
 ## Theme ##
 
 
-The theme being used is part of a theme package available on [Github](kitty-link). 
+The theme being used is part of a theme package available on [Github][kitty-link]. 
 
 [theme-package]: https://github.com/dexpota/kitty-themes
 [kitty-link]: https://sw.kovidgoyal.net/kitty/

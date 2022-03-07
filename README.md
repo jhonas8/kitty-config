@@ -42,13 +42,15 @@ The current theme is the *WarmNeon*. The color palette is:
     color15               #d8c8bb
     selection_foreground  #3f3f3f
 
+##### For implementing it on your terminal, you can simply paste it on your **kitty.conf** or paste it on a separate file and include it on there. ##### 
+
 In this case, I've created a link to a file containing the collor palette from the source path. You can do it by running the following code:  
 
 ``ln -s ./kitty-themes/themes/<ThemeName>.conf ~/.config/kitty/theme.conf``  
 
 By running this, you create a link for the file <ThemeName>.conf and name this link as 'theme.conf'.  
 
-Now you need to import it into your kitty.conf file, by running:
+Now you need to import it into your **kitty.conf** file, by running:
 ``include ./theme.conf``
 
 __Notice I'm considering you named the link as theme.conf__

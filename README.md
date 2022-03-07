@@ -1,5 +1,5 @@
 # My Kitty terminal emulator settings #
-This is my kitty terminal emulator configuration. I've started using it recently, so there's not a lot yet. 
+## This is my kitty terminal emulator configuration. I've started using it recently, so there's not a lot yet. ##
 
 <img
     alt="Print kitty-terminal"
@@ -54,6 +54,12 @@ Now you need to import it into your **kitty.conf** file, by running:
 ``include ./theme.conf``
 
 __Notice I'm considering you named the link as theme.conf__
+
+## Key mappings ##
+
+### Next tab ###
+Using CTRL + K for switching to next tab:  
+``map ctrl+0x6a previous_tab``
 
 [theme-package]: https://github.com/dexpota/kitty-themes
 [kitty-link]: https://sw.kovidgoyal.net/kitty/

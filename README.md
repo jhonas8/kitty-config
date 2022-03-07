@@ -4,9 +4,7 @@ This is my kitty terminal emulator configuration. I've started using it recently
 <img
     alt="Print kitty-terminal"
     src="./kitty-print.png"
-/>
-
-
+/>  
 
 [<img
     alt="Kitty icon"
@@ -16,7 +14,10 @@ This is my kitty terminal emulator configuration. I've started using it recently
 />][kitty-link]
 Access Kitty's documentation!
 
+## Theme ##
 
-The theme used on 'theme.conf' is from a kitty themes packages available on the following link: https://github.com/dexpota/kitty-themes
 
+The theme being used is part of a theme package available on [Github](kitty-link). 
+
+[theme-package]: https://github.com/dexpota/kitty-themes
 [kitty-link]: https://sw.kovidgoyal.net/kitty/

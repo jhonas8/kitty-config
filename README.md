@@ -74,5 +74,14 @@ Using F1 to open a new tab in the same directory as the current tab:
 
     map 0xffbe new_tab_with_cwd
 
+## Terminal Styles ##
+### Fonts ### 
+I'm using [Fira Code][fira-code] font. Font ligatures are automatically compatible to Kitty. The font size was set to 16px.
+
+    font_size 16.0
+    font_family FiraCode
+
+
 [theme-package]: https://github.com/dexpota/kitty-themes
 [kitty-link]: https://sw.kovidgoyal.net/kitty/
+[fira-code]: https://github.com/tonsky/FiraCode

@@ -64,11 +64,13 @@ Using CTRL + K for switching to next tab:
 
     map ctrl+0x6a previous_tab
 
+### Previous tab ###
 Using CTRL + J for switching to previous tab:
 
     map ctrl+0x6b next_tab
 
-Using F1 to open a new tab on the same directory as the current tab:
+### Open new tab in the same directory ###
+Using F1 to open a new tab in the same directory as the current tab:
 
     map 0xffbe new_tab_with_cwd
 

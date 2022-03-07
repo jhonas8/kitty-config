@@ -3,7 +3,7 @@
 
 <img
     alt="Print kitty-terminal"
-    src="./kitty-print.png"
+    src="./kittyPrint.png"
 />  
 
 [<img

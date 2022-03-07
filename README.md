@@ -76,10 +76,17 @@ Using F1 to open a new tab in the same directory as the current tab:
 
 ## Terminal Styles ##
 ### Fonts ### 
-I'm using [Fira Code][fira-code] font. Font ligatures are automatically compatible to Kitty. The font size was set to 16px.
+I'm using [Fira Code][fira-code] font. Font-ligatures are automatically compatible to Kitty. The font size was set to 16px.
 
     font_size 16.0
     font_family FiraCode
+
+It will only work if Fira Code is installed on the machine. 
+If you **DON'T** want the font-ligatures, you can add the follwing line:
+
+    font_features FiraCode -liga 
+
+The `-liga` will disable normal ligatures. There's also `(+/-)calt` feature (in Fira Code) which allows breaks up monotony.
 
 
 [theme-package]: https://github.com/dexpota/kitty-themes

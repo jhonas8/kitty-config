@@ -6,7 +6,7 @@ This is my kitty terminal emulator configuration. I've started using it recently
     src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg"
     width="22px"
     align="left"
-/>][kitty-link]   
+/>][kitty-link]
 If you are not used to Kitty, you can access its documentation by clicking on the icon above.
 
 <br/> <br/>

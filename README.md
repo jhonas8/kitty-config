@@ -105,7 +105,7 @@ As for the lauching flags, I set the background opacity to 0.95 (95%). That's th
 
     kitty -o background_opacity=0.95
 
-### I also setted up the command above to run by pressing the CTRL+ALT+t. In my case, I used the native Gnome 3 keyboards-shortcuts to set it up. If you're using the same interface, you can do it by following the steps: ##
+#### I also setted up the command above to run by pressing the CTRL+ALT+t. In my case, I used the native Gnome 3 keyboards-shortcuts to set it up. If you're using the same interface, you can do it by following the steps: ####
 
 #### Step 1 ###
 <img
